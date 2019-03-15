@@ -1,5 +1,5 @@
  # Define a local variable called 'greeting',
  # give it the value of the string "Hello World"
-val="greeting"
+myString ='greeting'
 
-puts "Hello World"
+puts 'Hello World'
